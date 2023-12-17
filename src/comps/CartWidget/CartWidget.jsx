@@ -1,5 +1,5 @@
 import React from 'react'
-import { RiShoppingCartLine } from "react-icons/ri";
+import { RiShoppingCartLine } from "node_modules/react-icons/ri";
 const CartWidget = () => {
   return (
     <RiShoppingCartLine />
